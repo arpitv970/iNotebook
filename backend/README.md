@@ -15,3 +15,7 @@ npm i mongoose
 ```
 npm i -D nodemon
 ```
+### Express-Validator
+```
+npm install --save express-validator
+```
