@@ -11,11 +11,20 @@ npm i express
 ```
 npm i mongoose
 ```
-### Nodemon
+### [Nodemon](https://www.npmjs.com/package/nodemon)
 ```
 npm i -D nodemon
 ```
-### Express-Validator
+### [Express-Validator](https://www.npmjs.com/package/express-validator)
 ```
 npm install --save express-validator
+```
+### [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
+```
+npm i bcryptjs
+```
+### [JWT](https://www.npmjs.com/package/jsonwebtoken)
+> more about [JWT](https://jwt.io/)
+```
+npm i jsonwebtoken
 ```
