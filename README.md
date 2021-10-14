@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Packages installed in project
+
+### [React Router DOM](https://reactrouter.com/web/guides/quick-start) & [concurrently](https://www.npmjs.com/package/concurrently)
+```
+npm i react-router-dom concurrently
+```
+---
+### *NOTE*:
+ - By using concurrently we can run both backend/index.js and react sever simultaneously <br>
+ - Thus use `npm run both` to run both simultaneously
+---  
