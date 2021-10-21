@@ -16,3 +16,8 @@ code {
 i{
   cursor: pointer;
 }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  display: none;
+}
