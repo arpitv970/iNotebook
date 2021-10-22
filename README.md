@@ -19,3 +19,7 @@ npm i react-router-dom concurrently
  - By using concurrently we can run both backend/index.js and react sever simultaneously <br>
  - Thus use `npm run both` to run both simultaneously
 ---  
+### [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+```
+npm install cors
+```
