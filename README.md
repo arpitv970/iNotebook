@@ -8,17 +8,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Running on Local Machine
-### For Running **Front-End**
-```
-npm start
-```
-### For Running **Back-End**
-```
-nodemon index.js
-```
-> Run the above commands in appropiate directory
-
 ## Packages installed in project
 
 ### [React Router DOM](https://reactrouter.com/web/guides/quick-start) & [concurrently](https://www.npmjs.com/package/concurrently)
